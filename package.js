@@ -1,6 +1,6 @@
 Package.describe({
   name: 'erictran:accounts-goalify',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'OAuth2 for Goalify',
   git: 'https://github.com/goalifyplus/meteor-accounts-goalify',
   documentation: 'README.md'
