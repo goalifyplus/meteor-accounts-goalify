@@ -18,8 +18,6 @@ if (Meteor.isClient) {
 			options = {};
 		}
 
-		options.redirectUri = window.location.origin + '/_oauth/goalify';
-
 		/**
 		 *
 		 */
